@@ -1,4 +1,3 @@
-import sys
 from domain.neuron import Neuron
 from application.train import train_neuron
 from infrastructure.adapter_config import load_main_config, load_training_data
