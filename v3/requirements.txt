@@ -1,0 +1,4 @@
+colorama
+python-dotenv
+psycopg[binary]>=3.1.0
+pgvector>=0.2.0
